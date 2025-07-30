@@ -64,6 +64,16 @@ if __name__ == "__main__":
     evaluator.run_evaluation()
     evaluator.log_results()
 ```
+### . Save and close the file
+
+ ### If you're using nano:
+
+Press CTRL + O to save.
+
+Press Enter to confirm.
+
+Then CTRL + X to exit.
+```
 ### Run it with Python
 ```
 python3 network_evaluator.py
