@@ -73,7 +73,7 @@ Press CTRL + O to save.
 Press Enter to confirm.
 
 Then CTRL + X to exit.
-```
+
 ### Run it with Python
 ```
 python3 network_evaluator.py
