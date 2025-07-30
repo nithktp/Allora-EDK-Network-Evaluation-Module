@@ -83,6 +83,8 @@ python3 network_evaluator.py
 python network_evaluator.py
 ```
 ---
-### Output 
-<img width="1575" height="331" alt="image" src="https://github.com/user-attachments/assets/d572acfe-1fcd-4dc0-a566-5c895bbc39b0" />
+### Output
+
+<img width="1597" height="361" alt="image" src="https://github.com/user-attachments/assets/abdb6b82-4ac8-4e09-8fe8-d1ff6f191334" />
+
 
